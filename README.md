@@ -6,13 +6,13 @@ This App was made to request products from the connected MySQl Database and abil
 ## Visuals
 
 ### Read
-![](ClientApp/public/Images/Home.png)
+![](AdminPage/ClientApp/public/Images/home.png)
 ### Update
-![](ClientApp/public/Images/Edit.png)
+![](AdminPage/ClientApp/public/Images/Edit.png)
 ### Create
-![](ClientApp/public/Images/Post.png)
+![](AdminPage/ClientApp/public/Images/Post.png)
 ### Delete
-![](ClientApp/public/Images/Delete.png)
+![](AdminPage/ClientApp/public/Images/Delete.png)
 
 
 ## Installation 
